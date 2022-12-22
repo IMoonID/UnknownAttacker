@@ -21,21 +21,21 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = '@hikal857' // ubah aja
-global.email = 'denyp857@gmail.com'
+global.youtube = 'yandex.com' // ubah aia
+global.ig = '???' // ubah aja
+global.email = 'whatsapp@support.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'ciel-sama' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'VISUAL SEKAI' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ciel-sama' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Unknown' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Unknown' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '\n\nUnknown Attacker' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6288212912038'] // ubah aja pake nomor lu
-global.premium = ['6288212912038'] // ubah aja pake nomor lu
-global.packname = 'ciel-sama' // ubah aja
-global.ownerr = ['ciel-sama'] // ubaha aja
-global.author = 'ciel-sama' //ubah aja
+global.owner = ['0'] // ubah aja pake nomor lu
+global.premium = ['0'] // ubah aja pake nomor lu
+global.packname = 'Unkown Attacker' // ubah aja
+global.ownerr = ['Unkown'] // ubaha aja
+global.author = 'Unknown' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
@@ -58,7 +58,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
 //=================================================//
 //Terserah Kalau Paham 
