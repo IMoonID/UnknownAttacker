@@ -8,7 +8,7 @@ const chalk = require('chalk')
 
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.autoavailable = false //status online (online)
+global.autoavailable = true //status online (online)
 global.wlcm = []
 global.ntnsfw = []
 global.ntnsfww = []
@@ -36,7 +36,7 @@ global.premium = ['0'] // ubah aja pake nomor lu
 global.packname = 'Unkown Attacker' // ubah aja
 global.ownerr = ['Unkown'] // ubaha aja
 global.author = 'Unknown' //ubah aja
-global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
+global.sessionName = './sessionye/session' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
